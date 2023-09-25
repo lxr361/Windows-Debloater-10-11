@@ -1,10 +1,8 @@
 # Windows 10/11 Debloater 
 
-----------------------------------------------------------------------------------------
 What is debloat?
-
 Debloat increases fps values ​​to the maximum level thanks to unnecessary applications.
-----------------------------------------------------------------------------------------
+---------------------------------------------
 # Commands:
 
 1.) Set-ExecutionPolicy Unrestricted -Force
