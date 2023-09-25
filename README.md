@@ -5,7 +5,7 @@ What is debloat?
 
 Debloat increases fps values ​​to the maximum level thanks to unnecessary applications.
 ----------------------------------------------------------------------------------------
-# COMMANDS:
+# Commands:
 
 1.) Set-ExecutionPolicy Unrestricted -Force
 
