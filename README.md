@@ -1,6 +1,6 @@
 # Windows 10/11 Debloater (FPS BOOST+)
 
-- What is debloat? -
+- What is debloat?
 
 Debloat increases fps values ​​to the maximum level thanks to unnecessary applications.
 --------------------------------------------
