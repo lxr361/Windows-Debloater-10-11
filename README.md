@@ -16,6 +16,7 @@ Tutorial Video: https://streamable.com/4sxo6v
 **If you have problems;**
 
 Discord: lxr361
+
 Github: github.com/lxr361
 
 [Download Debloater](https://github.com/lxr361/Windows-Debloater-10-11/archive/refs/heads/main.zip)
