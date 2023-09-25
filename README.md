@@ -12,6 +12,8 @@ Debloat increases fps values ​​to the maximum level thanks to unnecessary ap
 
 Tutorial Video: https://streamable.com/4sxo6v
 ---------------------------------------------
+**ONLY WINDOWS 10/WINDOWS 11!**
+
 **If you have problems;**
 
 Discord: lxr361
