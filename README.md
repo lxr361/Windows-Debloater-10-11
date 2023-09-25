@@ -1,6 +1,6 @@
 # Windows 10/11 Debloater
 
-Debloat increases fps values ​​to the maximum level thanks to unnecessary applications.
+Debloat increases FPS to the maximum level by automatically deleting unnecessary applications.
 ---------------------------------------------
 # Commands:
 
